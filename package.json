@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fastify/cors": "^8.1.0",
+    "fastify": "^4.5.3",
+    "mitt": "^3.0.0",
+    "nodemon": "^2.0.19"
+  }
+}
